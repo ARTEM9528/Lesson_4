@@ -1,0 +1,141 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Comforter&family=Montserrat+Alternates:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&family=Oswald:wght@400;700&family=Rubik+Beastly&display=swap');
+
+@font-face {
+   font-family: ZenKakuGothicAntique;
+   src: url("../fonts/ZenKakuGothicAntique-Medium.woff2") format("woff2"), url("../fonts/ZenKakuGothicAntique-Medium.woff") format("woff");
+   font-weight: 500;
+   font-style: normal;
+   font-display: swap;
+}
+@font-face {
+   font-family: ZenKakuGothicAntique;
+   src: url("../fonts/ZenKakuGothicAntique-Bold.woff2") format("woff2"), url("../fonts/ZenKakuGothicAntique-Bold.woff") format("woff");
+   font-weight: 700;
+   font-style: normal;
+   font-display: swap;
+}
+@font-face {
+   font-family: ZenKakuGothicAntique;
+   src: url("../fonts/ZenKakuGothicAntique-Black.woff2") format("woff2"), url("../fonts/ZenKakuGothicAntique-Black.woff") format("woff");
+   font-weight: 900;
+   font-style: normal;
+   font-display: swap;
+}
+body {
+font-family: "Montserrat Alternates", sans-serif;
+font-size: 20px;
+font-weight: 400;
+}
+.book {
+color: rgb(228, 9, 9);
+text-transform: uppercase;
+line-height: normal;
+letter-spacing: 2px;
+word-spacing: 5px;
+text-indent: 25px;
+}
+
+.book1 {
+   color: rgb(209, 245, 7);
+   text-transform: capitalize;
+   line-height: 1.5;
+   letter-spacing: 2px;
+   word-spacing: 5px;
+   text-indent: 25px;
+}
+.book2 {
+   color: rgb(4, 168, 168);
+   text-transform: lowercase;
+   line-height: 1.25;
+   letter-spacing: 2px;
+   word-spacing: 10px;
+   text-indent: 25px;
+}
+.book3 {
+   color: rgb(87, 161, 245);
+   text-transform: capitalize;
+   line-height: 1;
+   letter-spacing: 3px;
+   word-spacing: 15px;
+   text-indent: 25px;
+}
+.book4 {
+   color: rgb(87, 150, 5);
+   text-transform: capitalize;
+   line-height: 1.5;
+   letter-spacing: 2px;
+   word-spacing: 5px;
+   text-indent: 25px;
+}
+.book5 {
+   color: rgb(237, 7, 245);
+   text-transform: none;
+   line-height: 1.5;
+   letter-spacing: 5px;
+   word-spacing: 20px;
+   text-indent: 25px;
+}
+h1 {
+   font-family: ZenKakuGothicAntique, sans-serif;
+   font-weight: 900;
+   font-style: oblique;
+   font-size: 50px;
+   text-align: center;
+   color: #000;
+   text-shadow: 10px 10px 25px brown;
+}
+h2 {
+   font-family: ZenKakuGothicAntique, sans-serif;
+   font-weight: 700;
+   font-style: oblique;
+   font-size: 30px;
+   text-align: center;
+   color: #000;
+   text-shadow: 10px 10px 25px rgb(226, 159, 13);
+   text-transform: none;
+   line-height: 2;
+}
+
+.aftor {
+   font-family: ZenKakuGothicAntique, sans-serif;
+   font-weight: 500;
+   font-size: 25px;
+   color: rgb(48, 158, 5);
+   text-align: center;
+   text-decoration: overline;
+   text-transform: none;
+   line-height: 1.5;
+}
+a {
+   font-style: italic;
+   font-size: 15px;
+   text-align: right;
+   text-decoration: underline;
+}
+.review {
+   font-size: 25px;
+   font-style: italic;
+color: #000;
+}
+span {
+   font-weight: 700;
+   font-style: oblique;
+   text-decoration: line-through;
+}
+ul {
+   font-family: ZenKakuGothicAntique;
+   font-weight: 500;
+   font-style: normal;
+   color: rgb(224, 89, 89);
+}
+ol {
+   font-family: ZenKakuGothicAntique;
+   font-weight: 500;
+   font-style: normal;
+   color: rgb(238, 11, 143);
+}
+footer {
+   font-size: 10px;
+   color: rgb(175, 6, 6);
+}
